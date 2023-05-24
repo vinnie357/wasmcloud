@@ -78,7 +78,7 @@ https://wasmcloud.com/docs/fundamentals/actors/create-actor/run
 Requires rust installed.
 
 ```bash
-. .devcontainer/scripts/rush.sh
+. .devcontainer/scripts/rust.sh
 ```
 
 ```bash
