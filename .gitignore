@@ -1,0 +1,6 @@
+# examples:
+hello
+
+# docker stuff
+config/grafana/*
+config/tempo/*
