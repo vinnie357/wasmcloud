@@ -1,5 +1,7 @@
 # wasmcloud
 
+just messing around with wasmcloud in codespaces.
+
 ## install
 
 ### wash
@@ -12,7 +14,7 @@ sudo apt install wash openssl -y
 ### optional rust
 
 ```bash
-
+. .devcontainer/scripts/rust.sh
 ```
 
 ### with docker compose
